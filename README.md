@@ -1,2 +1,2 @@
 # repo1
-github-action-notes
+github-action-notes .
